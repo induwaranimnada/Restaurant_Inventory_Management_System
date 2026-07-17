@@ -165,9 +165,11 @@ This project demonstrates:
 
 ## Author
 
-Name : Induwara Nimnada
+Name : M.Induwara Nimnada
 
-Course : ICT 143-2 – Data Structures and Algorithms
+Course  : ICT 143-2 – Data Structures and Algorithms
+
+Department : Information and Communication Technology
 
 Faculty : Faculty of Technological Studies
 
